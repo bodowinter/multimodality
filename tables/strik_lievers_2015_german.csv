@@ -1,0 +1,6 @@
+modality,vision ,hearing ,touch,taste,smell 
+vision ,NA,86,3,3,3
+hearing,11,NA,1,1,0
+touch ,86,101,NA,19,9
+taste ,25,41,4,NA,42
+smell ,0,0,1,0,NA

@@ -1,0 +1,7 @@
+,sound,sight,smell,temperature,taste,touch
+sound,NA,80,1,86,149,540
+sight,26,NA,1,42,38,135
+smell,7,14,NA,3,60,34
+temperature,0,4,0,NA,19,8
+taste,0,0,0,1,NA,6
+touch,3,2,0,0,10,NA

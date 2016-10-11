@@ -1,0 +1,7 @@
+,sound,sight,smell,temperature,taste,touch
+sound,NA,0,0,0,1,2
+sight,0,NA,0,0,0,1
+smell,0,0,NA,0,1,0
+temperature,0,0,0,NA,0,0
+taste,0,0,0,0,NA,0
+touch,0,0,0,0,0,NA
